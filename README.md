@@ -14,11 +14,11 @@
 
   
 
-## ✏ 해결한 문제들
+## ✏ Solved Problems
 [<sub>![Silver4]</sub> 소수 찾기](https://www.acmicpc.net/problem/1978) |
 
 
-## 👨‍💻 스터디원
+## 👨‍💻 Members
 <table>
   <tr>
     <td align="center">
